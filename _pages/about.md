@@ -25,8 +25,8 @@ simulating large superconducting circuits,” [Phys. Rev. Research 3, 033244 (20
 3. **D. K. Weiss**, Andy C. Y. Li, D. G. Ferguson and Jens Koch, “Spectrum and Coherence Properties of the
 Current-Mirror Qubit,” [Phys. Rev. B 100, 224507 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.
    224507). [arXiv](https://arxiv.org/abs/1908.04615)
-4. Y.S. Nam, **D. K. Weiss** and R. Blumel, “Explicit, analytical radio-frequency heating formulas for spherically
+4. Y.S. Nam, **D. K. Weiss** and R. Bl&uuml;mel, “Explicit, analytical radio-frequency heating formulas for spherically
 symmetric nonneutral plasmas in a Paul trap,” [Phys. Lett. A 381, 3441 (2017)](https://www.sciencedirect.
    com/science/article/abs/pii/S037596011730840X). [arXiv](https://arxiv.org/abs/1708.03339)
-5. **D. K. Weiss**, Y.S. Nam and R. Blumel, “Lifetimes of metastable ion clouds in a Paul trap: Power-law
+5. **D. K. Weiss**, Y.S. Nam and R. Bl&uuml;mel, “Lifetimes of metastable ion clouds in a Paul trap: Power-law
 scaling,” [Phys. Rev. A 93, 043424 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.043424). [arXiv](https://arxiv.org/abs/1512.02534)
