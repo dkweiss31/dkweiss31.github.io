@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year graduate student studying superconducting circuits in
+I am a fifth-year graduate student studying the physics of superconducting circuits in
 <a href="https://sites.northwestern.edu/koch/" target="_blank">Jens Koch's group</a> at Northwestern University.
 My research interests include quantum information and computation, superconducting circuits, 
 noise-protected qubits, the fluxonium circuit and fluxonium gates.
