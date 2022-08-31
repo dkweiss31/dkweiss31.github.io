@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year graduate student studying the physics of superconducting circuits in
-<a href="https://sites.northwestern.edu/koch/" target="_blank">Jens Koch's group</a> at Northwestern University.
-My research interests include quantum information and computation, superconducting circuits, 
-noise-protected qubits, the fluxonium circuit and fluxonium gates.
+I am a postdoc in the Girvin and Puri groups at Yale University studying possible physical implementations of QRAM. 
+I received my PhD from Northwestern University in Jens Koch's group where I studied noise protected 
+superconducting circuits (like the current mirror) as well as novel techniques for coupling and controlling 
+fluxonium qubits.
 
 You can find a copy of my CV <a href="../files/D_K_Weiss_CV.pdf" target="_blank">here</a>.
+
+You can find a copy of my thesis <a href="../files/Danny_Thesis_Final.pdf" target="_blank">here</a>.
 
 # Publications
 
