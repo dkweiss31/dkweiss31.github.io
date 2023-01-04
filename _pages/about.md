@@ -21,7 +21,7 @@ You can find a copy of my thesis <a href="../files/Danny_Thesis_Final.pdf" targe
 1. Jacob Bryon, **D. K. Weiss**, Xinyuan You, Sara Sussman, Xanthe Croot, Ziwen Huang, Jens Koch and Andrew Houck,
    "Experimental verification of the treatment of time-dependent flux in circuit quantization," [arXiv](https://arxiv.org/abs/2208.03738)
 2. **D. K. Weiss**, Helin Zhang, Chunyang Ding, Yuwei Ma, David I. Schuster, Jens Koch, "Fast high-fidelity gates 
-   for galvanically-coupled fluxonium qubits using strong flux modulation," [arXiv](https://arxiv.org/abs/2207.03971) 
+   for galvanically-coupled fluxonium qubits using strong flux modulation," [PRX Quantum 3, 040336 (2022)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.3.040336). [arXiv](https://arxiv.org/abs/2207.03971) 
 3. **D. K. Weiss**, Wade DeGottardi, Jens Koch and D. G. Ferguson, “Variational tight-binding method for
 simulating large superconducting circuits,” [Phys. Rev. Research 3, 033244 (2021)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.033244). [arXiv](https://arxiv.org/abs/2104.14377)
 4. H. Zhang, S. Chakram, T. Roy, N. Earnest, Y. Lu, Z. Huang, **D. K. Weiss**, J. Koch and D. I. Schuster,
