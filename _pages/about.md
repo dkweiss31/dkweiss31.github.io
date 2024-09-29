@@ -35,3 +35,9 @@ current-mirror qubit,” [Phys. Rev. B 100, 224507 (2019)](https://journals.aps.
 symmetric nonneutral plasmas in a Paul trap,” [Phys. Lett. A 381, 3441 (2017)](https://www.sciencedirect.com/science/article/abs/pii/S037596011730840X) [arXiv](https://arxiv.org/abs/1708.03339)
 9. **D. K. Weiss**, Y.S. Nam and R. Blumel, “Lifetimes of metastable ion clouds in a Paul trap: power-law
 scaling,” [Phys. Rev. A 93, 043424 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.043424) [arXiv](https://arxiv.org/abs/1512.02534)
+
+# Open-source code
+
+**qontrol**: Quantum optimal control based on dynamiqs, diffrax and JAX. You can find the package on [github](https://github.com/dkweiss31/qontrol) and the documentation [here](https://dkweiss.net/qontrol/).
+
+**floquet**: Floquet simulations on quantum systems to identify nonlinear resonances (relevant for qubit readout or identifying parasitic processes when driving your quantum system parametrically). You can find the package on [github](https://github.com/dkweiss31/floquet) and the documentation [here](https://dkweiss.net/floquet/)
