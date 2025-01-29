@@ -41,6 +41,8 @@ scaling,” [Phys. Rev. A 93, 043424 (2016)](https://journals.aps.org/pra/abstra
 
 # Open-source code
 
-**qontrol**: Quantum optimal control based on dynamiqs, diffrax and JAX. You can find the package on [github](https://github.com/dkweiss31/qontrol) and the documentation [here](https://dkweiss.net/qontrol/).
+**qontrol**: Quantum optimal control based on dynamiqs, diffrax and JAX. [github](https://github.com/dkweiss31/qontrol) [documentation](https://dkweiss.net/qontrol/)
 
-**floquet**: Floquet simulations on quantum systems to identify nonlinear resonances (relevant for qubit readout or identifying parasitic processes when driving your quantum system parametrically). You can find the package on [github](https://github.com/dkweiss31/floquet) and the documentation [here](https://dkweiss.net/floquet/)
+**floquet**: Floquet simulations on quantum systems to identify nonlinear resonances (relevant for qubit readout or identifying parasitic processes when driving your quantum system parametrically). [github](https://github.com/dkweiss31/floquet) [documentation](https://dkweiss.net/floquet/)
+
+**dynamiqs**: High-performance quantum systems simulation with JAX (GPU-accelerated & differentiable solvers). [github](https://github.com/dynamiqs/dynamiqs) [documentation](https://www.dynamiqs.org/)
