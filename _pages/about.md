@@ -40,7 +40,7 @@ symmetric nonneutral plasmas in a Paul trap,” [Phys. Lett. A 381, 3441 (2017)]
 15. **D. K. Weiss**, Y.S. Nam and R. Blumel, “Lifetimes of metastable ion clouds in a Paul trap: power-law
 scaling,” [Phys. Rev. A 93, 043424 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.043424) [arXiv](https://arxiv.org/abs/1512.02534)
 
-\*: Equal contribution
+\* Equal contribution
 
 # Open-source code
 
