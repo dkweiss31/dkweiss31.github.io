@@ -15,7 +15,7 @@ You can find a copy of my thesis <a href="../files/Danny_Thesis_Final.pdf" targe
 
 # Publications
 
-1. W. Dai*, S. Hazra*, **D. K. Weiss** *, P. D. Kurilovich, T. Connolly, H. K. Babla, S. Singh, V. R. Joshi, A. Z. Ding, P. D. Parakh, J. Venkatraman, X. Xiao, L. Frunzio, M. H. Devoret, "Spectroscopy of drive-induced unwanted state transitions in superconducting circuits," [arXiv (2025)](https://arxiv.org/abs/2506.24070)
+1. W. Dai\*, S. Hazra\*, **D. K. Weiss**\*, P. D. Kurilovich, T. Connolly, H. K. Babla, S. Singh, V. R. Joshi, A. Z. Ding, P. D. Parakh, J. Venkatraman, X. Xiao, L. Frunzio, M. H. Devoret, "Spectroscopy of drive-induced unwanted state transitions in superconducting circuits," [arXiv (2025)](https://arxiv.org/abs/2506.24070)
 2. T. Connolly, P. D. Kurilovich, V. D. Kurilovich, C. G. L. Bøttcher, S. Hazra, W. Dai, A. Z. Ding, V. R. Joshi, H. Nho, S. Diamond, **D. K. Weiss**, Valla Fatemi, Luigi Frunzio, Leonid I. Glazman, Michel H. Devoret, "Full characterization of measurement-induced transitions of a superconducting qubit," [arXiv (2025)](https://arxiv.org/abs/2506.05306)
 3. N. Mehta, J.D. Teoh, T. Noh, A. Agrawal, A. Anderson, B. Birdsall, A. Brahmbhatt, W. Byrd, M. Cacioppo, A. Cabrera, L. Carroll, J. Chen, T.-C. Chien, R. Chamberlain, J.C. Curtis, D. Danso, S.R. Desigan, F. D'Acounto, B.H. Elfeky, S.M. Farzaneh, C. Foley, B. Gudlewski, H. Hastings, R. Johnson, N. Khedkar, T. Keen, A. Kumar, C. Kurter, K. Krawczuk, E. Langstengel, R.D. Li, G. Liu, H. Lu, P. Lu, L. Mastalli-Kelly, A. Maines, M. Maxwell, H. McCarrick, M. Mirzaei, A. Narla, O. Rashad, E. Reikes, M. Rahman, R. Primiani, M. Schwaller, A. Sabbah, T. Shemma, R.A. Shi, S. Satapathy, D. Stolpe, J. Strenczewilk, D. Szperka, I.-W. Sze, D. Sweeney, P. Tikkireddi, C.-L. Tsung, D. Vet Sam, **D.K. Weiss**, Z. Yang, L. Yu, T. Zhang, O. Boireau, S. Horton, S. Weinberg, J. Aumentado, B. Cord, C.U. Lei, J.O. Yuan, S.O. Mundhada, K.S. Chou, S.H. Moseleley Jr., R.J. Schoelkopf,
 "Bias-preserving and error-detectable entangling operations in a superconducting dual-rail system," [arXiv (2025)](https://arxiv.org/abs/2503.10935)
@@ -39,6 +39,8 @@ current-mirror qubit,” [Phys. Rev. B 100, 224507 (2019)](https://journals.aps.
 symmetric nonneutral plasmas in a Paul trap,” [Phys. Lett. A 381, 3441 (2017)](https://www.sciencedirect.com/science/article/abs/pii/S037596011730840X) [arXiv](https://arxiv.org/abs/1708.03339)
 15. **D. K. Weiss**, Y.S. Nam and R. Blumel, “Lifetimes of metastable ion clouds in a Paul trap: power-law
 scaling,” [Phys. Rev. A 93, 043424 (2016)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.93.043424) [arXiv](https://arxiv.org/abs/1512.02534)
+
+\*: Equal contribution
 
 # Open-source code
 
